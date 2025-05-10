@@ -1,4 +1,4 @@
-# # 📊 Intel-Inspired Semiconductor Fabrication Analysis - MSE 507 Project
+# 📊 Intel-Inspired Semiconductor Fabrication Analysis - MSE 507 Project
 
 This project applies Lean principles to a simulated semiconductor fabrication facility inspired by Intel’s operations. 
 The goal is to analyze core process steps, identify forms of waste, and apply continuous improvement tools to enhance efficiency. A synthetic dataset of 10,000 records was created, including steps like photolithography, etching, doping, and inspection. 
