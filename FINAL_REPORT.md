@@ -140,8 +140,7 @@ Visual analysis reveals waste, bottlenecks, and improvement areas—demonstratin
 > 🌐 [jeanpaul2102.github.io/projects.html](https://jeanpaul2102.github.io/projects.html)
 
 **Title:**  
-Intel-Inspired Semiconductor Fab | ⚙️ Lean Flow, 📉 Waste Elimination, 📈 Continuous Improvement
-
+Intel Fab Lean Analysis | 🧠 Lean Thinking, 🗺️ Value Stream Mapping, 📉 Waste Reduction, 🔁 Continuous Improvement, 🐍 Python, 📊 Seaborn
 --- 
 
 
