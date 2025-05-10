@@ -6,8 +6,9 @@ Metrics such as cycle time, queue time, defect rates, and machine status were an
 
 > 🔄 **Originally completed in December 2022** as a course final project at California State University, Northridge.
 >  🛠️ **Updated in February 2025** with simulated data.
->  🔍 Source of Inspiration
 
+
+>🔍 Source of Inspiration
 This project was inspired by the following benchmark dataset and academic paper:
 
 **[A Benchmark Time Series Dataset for Semiconductor Fabrication Manufacturing](https://arxiv.org/abs/2408.09307)**  
