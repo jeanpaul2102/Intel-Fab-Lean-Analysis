@@ -26,4 +26,3 @@ The goal of this project is to evaluate the efficiency, waste, and flow constrai
 
 Jean Paul Collazo  
 M.S. in Engineering Management  
-California State University, Northridge  
