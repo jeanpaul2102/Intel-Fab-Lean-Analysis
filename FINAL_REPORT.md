@@ -139,11 +139,11 @@ Visual analysis reveals waste, bottlenecks, and improvement areas—demonstratin
 > _Also featured at:_  
 > 🌐 [jeanpaul2102.github.io/projects.html](https://jeanpaul2102.github.io/projects.html)
 
-**Project Title:**  
+**Title:**  
 Intel-Inspired Semiconductor Fab | ⚙️ Lean Flow, 📉 Waste Elimination, 📈 Continuous Improvement
 
 --- 
-Public
+
 
 
 ## 👨‍🎓 Author
